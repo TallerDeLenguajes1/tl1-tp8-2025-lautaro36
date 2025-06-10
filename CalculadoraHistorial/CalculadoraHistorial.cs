@@ -9,22 +9,23 @@ namespace Calculadora
         private TipoOperacion operacionSigno;
         public double Resultado()
         {
+            double resultado=0;
             switch (operacionSigno)
             {
                 case (TipoOperacion)1:
-                    ResultadoAnterior += nuevoValor;
+                    resultado = ResultadoAnterior + nuevoValor;
                     break;
                 case (TipoOperacion)2:
-                    ResultadoAnterior -= nuevoValor;
+                    resultado = ResultadoAnterior - nuevoValor;
                     break;
                 case (TipoOperacion)3:
-                    ResultadoAnterior *= nuevoValor;
+                    resultado = ResultadoAnterior * nuevoValor;
                     break;
                 case (TipoOperacion)4:
-                    ResultadoAnterior /= nuevoValor;
+                    resultado = ResultadoAnterior / nuevoValor;
                     break;
             }
-            return ResultadoAnterior;
+            return resultado;
         }
         public double NuevoValor { get => nuevoValor; set => nuevoValor = value; }
         public double ResultadoAnterior { get => resultadoAnterior; set => resultadoAnterior = value; }
