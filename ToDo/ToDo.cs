@@ -5,7 +5,7 @@ namespace controlDeTareas
         private int tareaId;
         private string descripcion;
         private int duracion;
-
+        private PendienteORealizada estado = PendienteORealizada.pendiente;
         public Tarea(int tareaId, string descripcion, int duracion)
         {
             this.tareaId = tareaId;
@@ -16,6 +16,7 @@ namespace controlDeTareas
         public int TareaId { get => tareaId; set => tareaId = value; }
         public int Duracion { get => duracion; set => duracion = value; }
         public string Descripcion { get => descripcion; set => descripcion = value; }
+        public PendienteORealizada Estado { get => estado; set => estado = value; }
     }
 
     public enum Acciones
@@ -40,4 +41,10 @@ public enum Mascota
     quirquincho = 2,
     carpincho = 3,
     hamster = 4,
+}
+
+public enum PendienteORealizada
+{
+    realizada = 1,
+    pendiente = 0
 }
