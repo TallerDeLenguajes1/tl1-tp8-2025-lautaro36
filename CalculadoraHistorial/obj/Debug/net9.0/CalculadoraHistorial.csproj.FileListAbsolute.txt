@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.exe
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.deps.json
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.runtimeconfig.json
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.dll
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.pdb
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.sourcelink.json
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.dll
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\refint\CalculadoraHistorial.dll
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.pdb
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Facultad\Taller-de-lenguajes-1\tp8\tl1-tp8-2025-lautaro36\CalculadoraHistorial\obj\Debug\net9.0\ref\CalculadoraHistorial.dll
